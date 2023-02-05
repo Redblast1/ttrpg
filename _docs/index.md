@@ -28,8 +28,8 @@ redirect_from: /docs/index.html
 
 <script src="https://scripts.sirv.com/sirvjs/v3/sirv.js"></script>
 <div class="figure">
-  <img class="Sirv image-main" src="/../assets/img/scene1.jpg" data-src="/../assets/img/scene1.jpg">
-  <img class="Sirv image-hover" data-src="/../assets/img/scene2.jpg">
+  <img class="Sirv image-main" src="/assets/img/scene1.jpg" data-src="/assets/img/scene1.jpg">
+  <img class="Sirv image-hover" data-src="/assets/img/scene2.jpg">
 </div>
 
 
