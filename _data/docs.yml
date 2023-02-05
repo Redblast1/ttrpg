@@ -1,10 +1,12 @@
-- title: Getting Started
+- title: Character Creation
   docs:
   - home
-  - themes
-  - customization
+  - ancestry
+  - background
+  - class
 
-- title: Examples
+
+- title: Lore
   docs:
   - cheatsheet
   - font-awesome

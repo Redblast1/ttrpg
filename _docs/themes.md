@@ -1,5 +1,5 @@
 ---
-title: Themes
+title: Ancestry
 permalink: /docs/themes/
 ---
 
