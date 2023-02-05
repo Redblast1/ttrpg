@@ -35,7 +35,7 @@ redirect_from: /docs/index.html
 
 ## Getting started
 
-To begin, start with a concept maybe. Sometimes its easier to think "Han Solo but a paladin, whos also a goblin" or something like that. If you're not sure, sometimes just looking through the Ancestries and Classes can spark ideas to try out. 
+To begin, start with a concept maybe. Sometimes it's easier to think "Han Solo but a paladin, whos also a goblin" or something like that. If you're not sure, sometimes just looking through the Ancestries and Classes can spark ideas to try out. 
 
 A popular way to think about the process is follow your "ABC"s. **Ancestry**. **Background**. **Class**. 
 
