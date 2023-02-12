@@ -29,6 +29,6 @@ Before beginning, keep in mind that everything you would need is available on [A
 # Common Ancestries
 <script src="https://scripts.sirv.com/sirvjs/v3/sirv.js"></script>
 <div class="figure">
-  <img class="Sirv image-main" src="/ttrpg/assets/img/common_m.jpg" data-src="/ttrpg/assets/img/common_m.jpg">
-  <img class="Sirv image-hover" data-src="/ttrpg//assets/img/common_f.jpg">
+  <img class="Sirv image-main" src="../../assets/img/common_m.jpg" data-src="../../assets/img/common_m.jpg">
+  <img class="Sirv image-hover" data-src="../../assets/img/common_f.jpg">
 </div>
